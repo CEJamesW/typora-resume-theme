@@ -20,7 +20,3 @@ On Windows, Typora's theme folder is usually:
 ```text
 %APPDATA%\Typora\themes
 ```
-
-## Notes
-
-The CSS files include local font fallbacks for Chinese and monospace text. They also reference `fluent/fontawesome-webfont.*`, but that folder was not present in the local Typora theme directory when this repository was created, so it is not included here.
